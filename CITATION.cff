@@ -1,0 +1,48 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Impact Events for Structural Health Monitoring of a
+  Plastic Thin Plate
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Ioannis
+    email: ikatsidima@ceid.upatras.gr
+    affiliation: >-
+      Computer Engineering and Informatics
+      Department, University of Patras, Greece
+    family-names: Katsidimas
+  - given-names: Thanasis
+    family-names: Kotzakolios
+    email: kotzakol@mech.upatras.gr
+    affiliation: >-
+      Mechanical Engineering and Aeronautics
+      Department, University of Patras, Greece
+  - given-names: Sotiris
+    family-names: Nikoletseas
+    email: nikole@cti.gr
+    affiliation: >-
+      Computer Engineering and Informatics
+      Department, University of Patras, Greece
+  - given-names: Stefanos H.
+    family-names: Panagiotou
+    email: spanagiotou@ceid.upatras.gr
+    affiliation: >-
+      Computer Engineering and Informatics
+      Department, University of Patras, Greece
+  - given-names: Konstantinos
+    family-names: Timpilis
+    email: timpilis@ceid.upatras.gr
+    affiliation: >-
+      Computer Engineering and Informatics
+      Department, University of Patras, Greece
+  - given-names: Constantinos
+    family-names: Tsakonas
+    email: st1059666@ceid.upatras.gr
+    affiliation: >-
+      Computer Engineering and Informatics
+      Department, University of Patras, Greece
