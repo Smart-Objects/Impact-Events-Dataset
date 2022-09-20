@@ -22,10 +22,14 @@ Feature list can be found in  feature_list.json file or together with their desc
 # How to cite
 If you use the Impact Events dataset in your work, please make the corresponding citation.
 
-APA:
+Research papers concerning the dataset:
+**Arxiv**: 
+
+Github repository citation:
+**APA**:
 Katsidimas, I., Kotzakolios, T., Nikoletseas, S., Panagiotou, S. H., Timpilis, K., & Tsakonas, C. Impact Events for Structural Health Monitoring of a Plastic Thin Plate [Data set]
 
-BibTeX: 
+**BibTeX**: 
 @misc{Katsidimas_Impact_Events_for,
 author = {Katsidimas, Ioannis and Kotzakolios, Thanasis and Nikoletseas, Sotiris and Panagiotou, Stefanos H. and Timpilis, Konstantinos and Tsakonas, Constantinos},
 title = {{Impact Events for Structural Health Monitoring of a Plastic Thin Plate}}
