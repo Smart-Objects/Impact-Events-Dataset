@@ -21,6 +21,44 @@ More details can be found at this arxiv link.
 # Dataset file structure
 Feature list can be found in  feature_list.json file or together with their description in this image file.
 
+# Feature extraction
+The complete list of extracted features is the following:
+| Feature                                 | Description                                                                                                         |
+|-----------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Energy                                  | Energy of the time series                                                                                           |
+| Absolute Maximum                        | Highest absolute value                                                                                              |
+| Absolute Sum of Changes                 | Sum of absolute values of consecutive changes                                                                       |
+| C3                                      | Measurement of nonlinearity                                                                                         |
+| Count Above Mean                        | Number of values greater than the mean                                                                              |
+| Count Below Mean                        | Number of values lesser than the mean                                                                               |
+| Energy Ratio by Chunks                  | Ratio of the $i$-th chunk's energy over the energy of N chunks                                                      |
+| First Location of Maximum               | Index of the maximum value's first appearance relative to the length of the time series                             |
+| First Location of Maximum               | Index of the minimum value's first appearance relative to the length of the time series                             |
+| Kurtosis                                | Signal's tails measurement relative to normal distribution                                                          |
+| Large Standard Deviation                | Check if the Standard Deviation is $r$ times greater than $max - min$                                               |
+| Longest Strike Above Mean               | Number of consecutive values above mean                                                                             |
+| Longest Strike Below Mean               | Number of consecutive values below mean                                                                             |
+| Maximum                                 | Highest Value                                                                                                       |
+| Mean                                    | Mean of the time series                                                                                             |
+| Mean of Absolute Change                 | Mean value of absolute change                                                                                       |
+| Mean Change                             | Average of differences of subsequent values                                                                         |
+| Median                                  | Median of the time series                                                                                           |
+| Minimum                                 | Lowest Value                                                                                                        |
+| Skewness                                | Calculates the lack of symmetry                                                                                     |
+| Standard Deviation                      | Measurement of time series's dispersion relative to the mean                                                        |
+| Symmetry Looking                        | Checks the symmetry of the time series                                                                              |
+| Variance                                | Variability of the time series                                                                                      |
+| Variance Larger than Standard Deviation | Checks if the variance is greater than standard deviation                                                           |
+| Quantile                                | Calculates the q quantile of x                                                                                      |
+| Ratio beyond r\_sigma                   | Ratio of values that are more than r * std(x) (so r times sigma) away from the mean of x                            |
+| Sum of reoccuring data points           | Returns the sum of all data points, that are present in the time series more than once                              |
+| Sum of reoccuring values                | Returns the sum of all values, that are present in the time series more than once                                   |
+| Ratio to time series length             | Returns a factor which is 1 if all values in the time series occur only once, and below one if this is not the case |
+| Percentage of reoccuring datapoints     | Returns the percentage of non-unique data points                                                                    |
+| Percentage of reoccuring values         | Returns the percentage of values that are present in the time series more than once                                 |
+| Benford correlation                     | Returns the correlation from first digit distribution when compared to the Newcomb-Benford’s Law distribution       |
+
+
 # How to cite
 If you use the Impact Events dataset in your work, please make the corresponding citation.
 
