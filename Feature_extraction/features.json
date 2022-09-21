@@ -1,0 +1,59 @@
+{
+    "abs_energy": null,
+    "absolute_maximum": null,
+    "absolute_sum_of_changes": null,
+    "benford_correlation":null,
+    "c3": [
+        {
+            "lag": 4
+        }
+    ],
+    "count_above_mean": null,
+    "count_below_mean": null,
+    "energy_ratio_by_chunks": [
+        {
+            "num_segments": 5,
+            "segment_focus": 3
+        }
+    ],
+    "first_location_of_maximum": null,
+    "first_location_of_minimum": null,
+    "kurtosis": null,
+    "large_standard_deviation": [
+        {
+            "r": 0.01
+        }
+    ],
+    "longest_strike_above_mean": null,
+    "longest_strike_below_mean": null,
+    "maximum": null,
+    "mean": null,
+    "minimum": null,
+    "mean_abs_change": null,
+    "mean_change": null,
+    "median": null,
+    "skewness": null,
+    "standard_deviation": null,
+    "percentage_of_reoccurring_datapoints_to_all_datapoints": null,
+    "percentage_of_reoccurring_values_to_all_values": null,
+    "ratio_value_number_to_time_series_length": null,
+    "sum_of_reoccurring_data_points": null,
+    "sum_of_reoccurring_values": null,
+    "symmetry_looking": [
+        {
+            "r": 0.3
+        }
+    ],
+    "variance": null,
+    "variance_larger_than_standard_deviation": null,
+    "ratio_beyond_r_sigma": [
+        {
+            "r": 2
+        }
+    ],
+    "quantile": [
+        {
+            "q": 0.25
+        }
+    ]
+}
