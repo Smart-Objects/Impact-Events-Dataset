@@ -91,4 +91,12 @@ Creative Commons Attribution-NonCommercial-ShareAlike (CC-BY-NC-SA):
 
 A creative commons license that bans commercial use and requires you to release any modified works under this license.
 
+# Authors
+
+- Ioannis Katsidimas
+- Thanasis Kotzakolios
+- Sotiris Nikoletseas
+- Stefanos H. Panagiotou
+- Konstantinos Timpilis
+- Constantinos Tsakonas
 
