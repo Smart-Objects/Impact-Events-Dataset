@@ -20,9 +20,17 @@ that enable a variety of real-time data-driven SHM applications. Finally, we wis
 More details can be found at this arxiv link.
 
 # Dataset file structure
-Feature list can be found in  feature_list.json file or together with their description in this image file.
+The directory of the Impact Events dataset is organized as follows:
 
-# Feature extraction
+- DoE_Data folder contains one folder for each different height of the impact ball fall (ranging from 10.0 to 20.0 cm with an interval of 0.5 cm). 
+  - Then each of those folders contains one .csv file per experiment, based on the generated Sobol sequences (sobol_[Height]_[Sobol_ID].csv).
+  
+- The merged_dataset.csv file contains the unified dataset from all the sensor measurements across all the experiments
+  
+- Feature_extraction folder contains the features.json file that includes the index of the statistical features to be extracted (see the following section) and feature_augmented_dataset.csv that contains the extracted features (as columns) and the rest of impact information (x,y, height, position) per experiment (rows). 
+
+
+## Feature extraction list
 The complete list of extracted features is the following:
 | Feature                                 | Description                                                                                                         |
 |-----------------------------------------|---------------------------------------------------------------------------------------------------------------------|
