@@ -71,21 +71,19 @@ The complete list of extracted features is the following:
 # How to cite
 If you use the Impact Events dataset in your work, please make the corresponding citation.
 
-### Research papers concerning the dataset:
+### Research papers concerning the dataset (recommended):
 
-- **Arxiv**: 
+- **Arxiv preprin**: TBA
+- **Conference paper**: TBA
 
 
 ### Github repository citation:
 
-- **APA**:
-
-Katsidimas, I., Kotzakolios, T., Nikoletseas, S., Panagiotou, S. H., Timpilis, K., & Tsakonas, C. Impact Events for Structural Health Monitoring of a Plastic Thin Plate [Data set]
+- **APA**: Katsidimas, I., Kotzakolios, T., Nikoletseas, S., Panagiotou, S. H., Timpilis, K., & Tsakonas, C. Impact Events for Structural Health Monitoring of a Plastic Thin Plate [Data set]
 
 - **BibTeX**: @misc{Katsidimas_Impact_Events_for,
 author = {Katsidimas, Ioannis and Kotzakolios, Thanasis and Nikoletseas, Sotiris and Panagiotou, Stefanos H. and Timpilis, Konstantinos and Tsakonas, Constantinos},
-title = {{Impact Events for Structural Health Monitoring of a Plastic Thin Plate}}
-}
+title = {{Impact Events for Structural Health Monitoring of a Plastic Thin Plate}}}
 
 # License
 
