@@ -1,7 +1,6 @@
 # Impact-Events-Dataset
 
 ## Status
-- Currently being updated with descriptions and files
 
 - The Impact Events data contained in this repository is currently submitted as a dataset paper to DATA 2022 (https://data-workshop.github.io/DATA2022/). In addition, the data are used in the context of a reseach work submitted to AIChallengeIoT 2022 (https://aichallenge22.hotcrp.com/).
 
