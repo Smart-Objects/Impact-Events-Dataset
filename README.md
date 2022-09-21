@@ -73,7 +73,7 @@ If you use the Impact Events dataset in your work, please make the corresponding
 
 ### Research papers concerning the dataset (recommended):
 
-- **Arxiv preprin**: TBA
+- **Arxiv preprint**: TBA
 - **Conference paper**: TBA
 
 
