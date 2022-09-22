@@ -1,10 +1,12 @@
 # Impact-Events-Dataset
 
+**Full name** - Dataset: Impact Events for Structural Health Monitoring of a Plastic Thin Plate
+
 ## Status
 
 - The Impact Events data contained in this repository is currently submitted as a dataset paper to DATA 2022 (https://data-workshop.github.io/DATA2022/). In addition, the data are used in the context of a reseach work submitted to AIChallengeIoT 2022 (https://aichallenge22.hotcrp.com/).
 
-- A preprint arxiv for the dataset paper is scheduled to be announced on Thursday 22/09, link TBA.
+- A preprint arxiv for the dataset paper has been announced [here](https://arxiv.org/abs/2209.10018).
 
 ## Dataset outline
 This repository contains a novel time-series dataset for impact detection and localization on a plastic thin-plate, towards Structural Health Monitoring applications, using ceramic piezoelectric transducers (PZTs) connected to an Internet of Things (IoT) device. The dataset was collected from an experimental procedure of low-velocity, low-energy impact events that includes at least 3 repetitions for each unique experiment, while the input measurements come from 4 PZT sensors placed at the corners of the plate. For each repetition and sensor, 5000 values are stored with 100 KHz sampling rate. The system is excited with a steel ball, and the height from which it is released varies from 10 cm to 20 cm.
@@ -12,12 +14,8 @@ This repository contains a novel time-series dataset for impact detection and lo
 
 
 ## Why - Motivation and Contribution
-To the best of our knowledge, we are the first, to publish a public dataset that contains PZT sensors measurements concerning low-velocity, low-energy impact events in a
-thin plastic plate. In addition, we also contribute with our methodology on data collection using an SHM IoT system with resource constraints (based on Arduino NANO 33 MCU), as opposed to the majority of the literature that uses Oscilloscopes for data acquisition. This concept of an MCU-based system for data collection
-in SHM is especially important nowadays, due to the fast rise of extreme-edge and embedded machine learning practices solutions
-that enable a variety of real-time data-driven SHM applications. Finally, we wish to highlight that by using this specific Microcontroller Unit (MCU) and sensors, the proposed implementation aims for an overall low-cost data collection solution
-
-More details can be found at this arxiv link.
+To the best of our knowledge, we are the first, to publish a public dataset that contains PZT sensors measurements concerning low-velocity, low-energy impact events in a thin plastic plate. In addition, we also contribute with our methodology on data collection using an SHM IoT system with resource constraints (based on Arduino NANO 33 MCU), as opposed to the majority of the literature that uses Oscilloscopes for data acquisition. This concept of an MCU-based system for data collection
+in SHM is especially important nowadays, due to the fast rise of extreme-edge and embedded machine learning practices solutions that enable a variety of real-time data-driven SHM applications. Finally, we wish to highlight that by using this specific Microcontroller Unit (MCU) and sensors, the proposed implementation aims for an overall low-cost data collection solution.
 
 # Dataset file structure
 The directory of the Impact Events dataset is organized as follows:
