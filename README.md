@@ -71,7 +71,18 @@ If you use the Impact Events dataset in your work, please make the corresponding
 
 ### Research papers concerning the dataset (recommended):
 
-- **Arxiv preprint**: TBA
+- **Arxiv preprint**:
+  - **APA**:
+  
+  - **BibTeX**: @misc{https://doi.org/10.48550/arxiv.2209.10018,
+  doi = {10.48550/ARXIV.2209.10018}, url = {https://arxiv.org/abs/2209.10018},
+  author = {Katsidimas, Ioannis and Kotzakolios, Thanasis and Nikoletseas, Sotiris and Panagiotou, Stefanos H. and Timpilis, Konstantinos and Tsakonas, Constantinos},
+  keywords = {Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Dataset: Impact Events for Structural Health Monitoring of a Plastic Thin Plate},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {Creative Commons Attribution Non Commercial Share Alike 4.0 International}}
+
 - **Conference paper**: TBA
 
 
