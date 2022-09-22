@@ -72,8 +72,7 @@ If you use the Impact Events dataset in your work, please make the corresponding
 ### Research papers concerning the dataset (recommended):
 
 - **Arxiv preprint**:
-  - **APA**:
-  
+
   - **BibTeX**: @misc{https://doi.org/10.48550/arxiv.2209.10018,
   doi = {10.48550/ARXIV.2209.10018}, url = {https://arxiv.org/abs/2209.10018},
   author = {Katsidimas, Ioannis and Kotzakolios, Thanasis and Nikoletseas, Sotiris and Panagiotou, Stefanos H. and Timpilis, Konstantinos and Tsakonas, Constantinos},
