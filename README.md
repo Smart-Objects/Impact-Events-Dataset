@@ -5,12 +5,12 @@
 ## Status
 
 - Publications
-   - The Impact Events data contained in this repository has been successfully accepted for publication as a dataset paper in the Fifth International Workshop on Data: Acquisition To Analysis [DATA '22](https://data-workshop.github.io/DATA2022/). 
+   - The Impact Events data contained in this repository has been successfully accepted for publication as a dataset paper in the Fifth International Workshop on Data: Acquisition To Analysis ([DATA '22](https://data-workshop.github.io/DATA2022/)). 
 
-  - In addition, the data are used in the paper "Smart Objects: Impact localization powered by TinyML" that is accepted for publication in the 4th International Workshop on Challenges in Artificial Intelligence and Machine Learning for Internet of Things [AIChallengeIoT 2022](https://aichallenge22.hotcrp.com/).
+  - In addition, the data are used in the paper "Smart Objects: Impact localization powered by TinyML" that is accepted for publication in the 4th International Workshop on Challenges in Artificial Intelligence and Machine Learning for Internet of Things ([AIChallengeIoT 2022](https://aichallenge22.hotcrp.com/)).
 
   - Both workshops are held in conjuction with the 20th ACM Conference on Embedded Networked Sensor Systems [SenSys 2022](http://sensys.acm.org/2022/)
-  - A preprint arxiv for the dataset paper has been announced [here](https://arxiv.org/abs/2209.10018).
+  - A preprint arxiv for the dataset paper has been announced ([here](https://arxiv.org/abs/2209.10018)).
   
 - The dataset is also available in [Zenodo](https://zenodo.org/record/7199346).
 
