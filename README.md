@@ -4,6 +4,8 @@
 
 ## Status
 
+- Due to current git lfs limits, the dataset is also available and can be accessed from [Zenodo](https://zenodo.org/record/7199346).
+
 - Publications
    - The Impact Events data contained in this repository has been successfully accepted for publication as a dataset paper in the Fifth International Workshop on Data: Acquisition To Analysis ([DATA '22](https://data-workshop.github.io/DATA2022/)). 
 
@@ -11,8 +13,7 @@
 
   - Both workshops are held in conjuction with the 20th ACM Conference on Embedded Networked Sensor Systems [SenSys 2022](http://sensys.acm.org/2022/)
   - A preprint arxiv for the dataset paper has been announced ([here](https://arxiv.org/abs/2209.10018)).
-  
-- The dataset is also available in [Zenodo](https://zenodo.org/record/7199346).
+ 
 
 
 ## Dataset outline
