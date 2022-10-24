@@ -81,13 +81,13 @@ If you use the Impact Events dataset in your work, please make the corresponding
 
 - **Arxiv preprint**:
 
-  - **Conference paper**: @inproceedings{dataset_sensys,
+  - **Conference paper**: '@inproceedings{dataset_sensys,
   title={Dataset: Impact events for Structural Health Monitoring of a thin plate},
   author = {Katsidimas, Ioannis and Kotzakolios, Thanasis and Nikoletseas, Sotiris and Panagiotou, Stefanos H. and Timpilis, Konstantinos and Tsakonas, Constantinos},
   booktitle={Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems},
   year={2022},
   doi = {https://doi.org/10.1145/3560905.3567764}
-}
+}'
 
   - **BibTeX**: @misc{https://doi.org/10.48550/arxiv.2209.10018,
   doi = {10.48550/ARXIV.2209.10018}, url = {https://arxiv.org/abs/2209.10018},
